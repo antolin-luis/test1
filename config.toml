@@ -1,11 +1,11 @@
 publishDir = "docs" 
-baseurl = "https://luisantolin.netlify.com/"
+baseurl = "luisantolin.netlify.com/"
 languageCode = "en-us"
 title = "Luis Antolin"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = "luisantolin"
 googleAnalytics = ""
 
 [params]
