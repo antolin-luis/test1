@@ -1,5 +1,5 @@
 publishDir = "docs" 
-baseurl = "http://hugo.spf13.com/"
+baseurl = "https://luisantolin.netlify.com/"
 languageCode = "en-us"
 title = "Luis Antolin"
 theme = "hugo-future-imperfect"
