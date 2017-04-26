@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teste on Luis Antolin</title>
-    <link>/categories/teste/</link>
+    <link>luisantolin.netlify.com/categories/teste/</link>
     <description>Recent content in Teste on Luis Antolin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/teste/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="luisantolin.netlify.com/categories/teste/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>teste</title>
-      <link>/post/teste/</link>
+      <link>luisantolin.netlify.com/post/teste/</link>
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/teste/</guid>
+      <guid>luisantolin.netlify.com/post/teste/</guid>
       <description></description>
     </item>
     
